@@ -24,5 +24,5 @@
 
 
 
-如遇到问题，您可以在此作品下留言，或将相关内容发送至我的邮箱 3556577839@qq.com
+如遇到问题，您可以在此作品下留言，提交 Issue 到 [Github 仓库](https://github.com/Lumine1909/Compoent-and-Bukkit-plugin)，或将相关内容发送至我的邮箱 3556577839@qq.com
 
